@@ -11,7 +11,8 @@
 	Hello!
 	<form method="post" action="WelcomeServlet">
 		USERNAME: <input type="text" name="user"><br> 
-		PASSWORD: <input type="password" name="password"><br> 
+		PASSWORD: <input type="password" name="password"><br>
+		 
 		<input	type="submit" value="LOG IN">
 	</form>
 </body>
